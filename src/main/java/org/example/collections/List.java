@@ -15,7 +15,7 @@ public class List {
         int number = obj.size();
         System.out.println(number);
 
-        obj.set(1, "bye");
+        obj.set(1, "byee");
         System.out.println(obj);
 
         String ret = obj.get(3);
